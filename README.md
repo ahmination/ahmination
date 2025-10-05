@@ -19,3 +19,6 @@ Linkedin: [www.linkedin.com/in/ahmet-abdulhamit-441798178](https://www.linkedin.
 - **Git**
 - **SQL**
   
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8acca4ed-d177-4121-b209-9c4fa4ee7a6e" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/819104e5-469d-491b-9c14-2505b38ce153" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a72bceff-280c-4859-b22c-0dd3ab920977" />
