@@ -13,7 +13,6 @@ Linkedin: [www.linkedin.com/in/ahmet-abdulhamit-441798178](https://www.linkedin.
 - **Python**
 - **Java**
 - **C**
-- **Assembly**
 
 ### Databases & Tools:
 - **Git**
